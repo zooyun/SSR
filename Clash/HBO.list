@@ -67,7 +67,8 @@ DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,us-east-1.amazonaws.com
 DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,youboranqs01.com
-
+DOMAIN-SUFFIX,bitmovin.com
+DOMAIN-SUFFIX,ngtv.io
 # HBO
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
