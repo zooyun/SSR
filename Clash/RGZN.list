@@ -1,48 +1,48 @@
-  - DOMAIN-SUFFIX,tiktok.com
-  - DOMAIN-SUFFIX,tik-tokapi.com
-  - DOMAIN-SUFFIX,tiktokcdn.com
-  - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-KEYWORD,tiktokcdn-
-  - DOMAIN-KEYWORD,tiktokv
-  - DOMAIN-KEYWORD,tiktok
-  - DOMAIN-KEYWORD,ttcdn
-  - DOMAIN-SUFFIX,meta.ai
-  - DOMAIN-SUFFIX,f8.com
-  - DOMAIN-SUFFIX,facebookmail.com
-  - DOMAIN-SUFFIX,fb.com
-  - DOMAIN-SUFFIX,fb.me
-  - DOMAIN-SUFFIX,fb.watch
-  - DOMAIN-SUFFIX,fbaddins.com
-  - DOMAIN-SUFFIX,fbcdn.net
-  - DOMAIN-SUFFIX,fbsbx.com
-  - DOMAIN-SUFFIX,fbworkmail.com
-  - DOMAIN-SUFFIX,instagram.com
-  - DOMAIN-SUFFIX,m.me
-  - DOMAIN-SUFFIX,messenger.com
-  - DOMAIN-SUFFIX,oculus.com
-  - DOMAIN-SUFFIX,oculuscdn.com
-  - DOMAIN-SUFFIX,readyatdawn.com
-  - DOMAIN-SUFFIX,rocksdb.org
-  - DOMAIN-SUFFIX,whatsapp.com
-  - DOMAIN-SUFFIX,whatsapp.net
-  - DOMAIN-KEYWORD,.facebook.
-  - DOMAIN-SUFFIX,paypal.com
-  - DOMAIN-SUFFIX,paypal.me
-  - DOMAIN-SUFFIX,paypal-mktg.com
-  - DOMAIN-SUFFIX,paypalobjects.com
-  - DOMAIN-SUFFIX,recaptcha.net
-  - DOMAIN-KEYWORD,paypal
-  - DOMAIN-SUFFIX,mobilefuse.com
-  - DOMAIN-SUFFIX,inmobi.com
-  - DOMAIN-SUFFIX,crashlytics.com
-  - DOMAIN-SUFFIX,talkatone.com
-  - DOMAIN-SUFFIX,kochava.com
-  - DOMAIN-SUFFIX,tktn.be
-  - DOMAIN-SUFFIX,cohere.com
-  - DOMAIN-SUFFIX,ip-api.com
-  - DOMAIN-SUFFIX,agkn.com
-  - DOMAIN-SUFFIX,tktn.at
-  - IP-CIDR,50.117.27.0/24,no-resolve,no-resolve
-  - IP-CIDR,69.46.75.0/24,no-resolve,no-resolve
-  - IP-CIDR,205.164.56.0/24,no-resolve,no-resolve
-  - IP-CIDR,63.251.124.0/24,no-resolve,no-resolve
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-KEYWORD,tiktokcdn-
+DOMAIN-KEYWORD,tiktokv
+DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,ttcdn
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,f8.com
+DOMAIN-SUFFIX,facebookmail.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,readyatdawn.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-KEYWORD,.facebook.
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypal.me
+DOMAIN-SUFFIX,paypal-mktg.com
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,tktn.at
+IP-CIDR,50.117.27.0/24,no-resolve,no-resolve
+IP-CIDR,69.46.75.0/24,no-resolve,no-resolve
+IP-CIDR,205.164.56.0/24,no-resolve,no-resolve
+IP-CIDR,63.251.124.0/24,no-resolve,no-resolve
