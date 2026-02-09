@@ -1,5 +1,22 @@
 # 直连列表
 
+
+# 以下为TT可能需要走直连的规则
+DOMAIN-SUFFIX,agkn.com,🎯 全球直连
+DOMAIN-SUFFIX,cohere.com,🎯 全球直连
+DOMAIN-SUFFIX,crashlytics.com,🎯 全球直连
+DOMAIN-SUFFIX,inmobi.com,🎯 全球直连
+DOMAIN-SUFFIX,inner-active.mobi,🎯 全球直连
+DOMAIN-SUFFIX,ip-api.com,🎯 全球直连
+DOMAIN-SUFFIX,kochava.com,🎯 全球直连
+DOMAIN-SUFFIX,mobilefuse.com,🎯 全球直连
+DOMAIN-SUFFIX,talkatone.com,🎯 全球直连
+IP-CIDR,205.164.56.0/24,🎯 全球直连,NO-RESOLVE
+IP-CIDR,216.172.154.0/24,🎯 全球直连,NO-RESOLVE
+IP-CIDR,50.117.27.0/24,🎯 全球直连,NO-RESOLVE
+IP-CIDR,63.251.124.0/24,🎯 全球直连,NO-RESOLVE
+IP-CIDR,69.46.75.0/24,🎯 全球直连,NO-RESOLVE
+
 # MyList
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
