@@ -1,5 +1,9 @@
 # 代理列表
-
+# 以下为tt可能需要走代理的规则
+DOMAIN-SUFFIX,tktn.at
+DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,vm.talkatone.com
+DOMAIN-SUFFIX,tenor.com
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
