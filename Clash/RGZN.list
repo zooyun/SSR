@@ -45,6 +45,17 @@ DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,agkn.com
 DOMAIN-SUFFIX,tktn.at
+DOMAIN-SUFFIX, gateway.icloud.com
+DOMAIN-SUFFIX, apple-relay.apple.com
+DOMAIN-SUFFIX, apple-relay.fastly-edge.com
+DOMAIN-SUFFIX, apple-relay.cloudflare.com
+DOMAIN-SUFFIX, guzzoni.apple.com
+DOMAIN-SUFFIX, cp4.cloudflare.com
+DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX, smoot.apple.com
+DOMAIN-SUFFIX, apple-relay.akamaized.net
+DOMAIN-SUFFIX, apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX, aapps.mzstatic.com
 IP-CIDR,50.117.27.0/24,no-resolve,no-resolve
 IP-CIDR,69.46.75.0/24,no-resolve,no-resolve
 IP-CIDR,205.164.56.0/24,no-resolve,no-resolve
